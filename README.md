@@ -15,6 +15,8 @@ Open an integrated terminal in the main root and log in to mySQL, then run "sour
 ## General Info
 This application allows users to organize their E-Commerce database. Users can also add, update, and delete Categories, Products, and Tags. 
 
+The starter code was provided by the University of Utah Coding Bootcamp, which can be found [here](https://github.com/coding-boot-camp/fantastic-umbrella)
+
 ## License
 This project is unlicensed
 
